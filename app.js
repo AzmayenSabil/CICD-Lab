@@ -5,6 +5,6 @@ app.get('/', (req, res) => {
     res.send('Welcome Azure Application')
 })
 
-app.listen(8000, () => {
+app.listen(process.env.PORT, () => {
     console.log('listening on 8000')
 })
