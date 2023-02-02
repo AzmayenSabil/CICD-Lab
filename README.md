@@ -1,2 +1,2 @@
 # CICD-Lab
-This is a Software Design and analysis lab
+Software Design and analysis lab
